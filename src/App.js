@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Professor Hase is a <i>really</i> passionate man!
+          Professor Hase is an <i>extremely</i> passionate man!
         </p>
       </header>
     </div>
